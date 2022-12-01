@@ -1,0 +1,35 @@
+/* IMPOSTAZIONI GENERALI */
+
+/* HEADER */
+header{
+    background-color: aqua;
+    color: white;
+    text-align: center;
+    margin: 20px;
+    padding: 20px;
+    border: 20px green solid
+}
+img.logo{ width: 100%;
+
+}
+/* MAIN */
+main{
+    margin: 20px;
+    padding: 20px;
+}
+div.article{
+    text-align: center;
+}
+main.div{
+    text-align: center;
+}
+
+/* ELEMENTI NEL MAIN - ARTICLE */
+
+/* TABELLE */
+
+/* FORM */
+
+/* ELEMENTI NELL' ASIDE */
+
+/* FOOTER */
